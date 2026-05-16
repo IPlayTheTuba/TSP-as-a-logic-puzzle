@@ -2,7 +2,7 @@
 #define POINTMAP_H
 
 #include <vector>
-#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\Point.h"
+#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\structures\Point.h"
 
 class PointMap {
     private: 

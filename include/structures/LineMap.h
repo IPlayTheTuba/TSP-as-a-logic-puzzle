@@ -2,7 +2,7 @@
 #define LINEMAP_H
 
 #include <vector>
-#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\Line.h"
+#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\structures\Line.h"
 
 class LineMap {
     private: 

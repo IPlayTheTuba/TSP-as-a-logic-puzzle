@@ -2,8 +2,8 @@
 #define LINEMAPGENERATOR_H
 
 #include <random>
-#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\LineMap.h"
-#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\PointMap.h"
+#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\structures\LineMap.h"
+#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\structures\PointMap.h"
 
 class LineMapGenerator {
     private:

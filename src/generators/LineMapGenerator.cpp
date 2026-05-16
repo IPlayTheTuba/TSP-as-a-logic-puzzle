@@ -1,4 +1,4 @@
-#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\LineMapGenerator.h"
+#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\generators\LineMapGenerator.h"
 
 LineMapGenerator::LineMapGenerator() {
 

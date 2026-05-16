@@ -1,4 +1,4 @@
-#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\PointMapGenerator.h"
+#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\generators\PointMapGenerator.h"
 
 PointMapGenerator::PointMapGenerator() {
 

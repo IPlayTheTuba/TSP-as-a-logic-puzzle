@@ -1,4 +1,4 @@
-#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\PointMap.h"
+#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\structures\PointMap.h"
 
 
 PointMap::PointMap() {
