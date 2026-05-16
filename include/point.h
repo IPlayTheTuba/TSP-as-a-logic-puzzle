@@ -1,15 +1,17 @@
-#ifndef PERSON_HPP
-#define PERSON_HPP
+#ifndef POINT_H
+#define POINT_H
 
 #include <string>
-class point {
+class Point {
     private:
-        int x;
-        int y;
+        double x;
+        double y;
     public:
-        point(int x, int y);
-        int getX();
-        int getY();
+        Point();
+        Point(double x, double y);
+        ~Point();
+        double getX();
+        double getY();
         std::string toString();
 };
 
