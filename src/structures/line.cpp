@@ -1,4 +1,4 @@
-#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\structures\Line.h"
+#include <Line.h>
 
 Line::Line(Point point1, Point point2) {
     this->point1 = point1;

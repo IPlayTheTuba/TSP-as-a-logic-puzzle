@@ -1,4 +1,4 @@
-#include "C:\Users\grayt\Documents\TSP-as-a-logic-puzzle\include\structures\LineMap.h"
+#include <LineMap.h>
 
 
 LineMap::LineMap() {
